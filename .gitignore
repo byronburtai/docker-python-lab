@@ -25,5 +25,5 @@ Thumbs.db
 .idea/
 
 # Data and output (optional)
-data/*.csv
+#data/*.csv
 output/
