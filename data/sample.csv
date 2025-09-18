@@ -1,0 +1,7 @@
+﻿date,product_id,product_name,units_sold,unit_price,total_revenue
+2025-09-01,P001,Wireless Mouse,12,25.99,311.88
+2025-09-01,P002,USB-C Hub,8,39.99,319.92
+2025-09-02,P003,Mechanical Keyboard,5,89.99,449.95
+2025-09-02,P001,Wireless Mouse,7,25.99,181.93
+2025-09-03,P004,Webcam HD,10,49.99,499.90
+2025-09-03,P002,USB-C Hub,4,39.99,159.96
