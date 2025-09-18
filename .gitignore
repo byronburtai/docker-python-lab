@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.ipynb~
+
+# Environment files
+.env
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+*.pid
+
+# VSCode or IDE metadata
+.vscode/
+.idea/
+
+# Data and output (optional)
+data/*.csv
+output/
